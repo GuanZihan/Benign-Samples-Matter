@@ -10,7 +10,7 @@ import numpy as np
 from eval_utils.openai_gpt4_judge import duo_judge
 import time
 
-openai.api_key = "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"
+openai.api_key = "sk"
 
 def result_print(scores_attacked, mode = "Duo"):
     scores_attacked_np = np.array(scores_attacked[0])

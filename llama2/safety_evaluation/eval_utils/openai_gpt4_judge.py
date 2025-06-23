@@ -97,7 +97,7 @@ def duo_judge(QApairs, outputs_to_judge):
         while True:
 
             try:
-                client = OpenAI(api_key="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")
+                client = OpenAI(api_key="sk")
                 response = client.chat.completions.create(
                     model="gpt-4o",
                     messages=[
