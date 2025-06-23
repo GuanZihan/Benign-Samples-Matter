@@ -6,6 +6,10 @@ Welcome to the official repository for our ICML 2025 paper:
 This repo provides all code and scripts to reproduce the results from our paper, including sample selection, model fine-tuning, and safety evaluation.
 
 ---
+## TODO-LIST
+
+- Check Released Codes (before Jun 28th)
+- ...
 
 ## 🔧 Environment Setup
 
