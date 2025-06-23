@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "What is the more popular name for the Londonderry Air",
+        "context": "",
+        "response": "Danny Boy",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How do fiber optic cables transmit data?",
+        "context": "",
+        "response": "With light",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Marlin or Doberman",
+        "context": "",
+        "response": "Marlin",
+        "category": "classification"
+    },
+    {
+        "instruction": "Where is the largest living thing located?",
+        "context": "",
+        "response": "Oregon, USA",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the state bird of Texas?",
+        "context": "",
+        "response": "Mockingbird",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What was the name of Dr Dolittle\u2019s Parrot",
+        "context": "",
+        "response": "Polynesia",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Paradise fish or Heaven",
+        "context": "",
+        "response": "Paradise fish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Walu or Whitehead",
+        "context": "",
+        "response": "Walu",
+        "category": "classification"
+    },
+    {
+        "instruction": "Identify the bird from the list: Gadwall, Worm, Centipede",
+        "context": "",
+        "response": "Gadwall",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Hoki or Loki",
+        "context": "",
+        "response": "Hoki",
+        "category": "classification"
+    },
+    {
+        "instruction": "Who wrote the biography of Steve Jobs?",
+        "context": "",
+        "response": "Walter Isaacson",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What was invented by Dr Albert Southwick in 1881",
+        "context": "",
+        "response": "Electric chair",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How much did Shaffer donate?",
+        "context": "In 2018, Butler County Community College created The Shaffer School of Nursing and Allied Health after Shaffer donated $1 million to the school.",
+        "response": "$1 million",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "During which event, Korea was separated into 2 nations?",
+        "context": "",
+        "response": "World War II",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Where is Seth McFarlane from?",
+        "context": "",
+        "response": "Kent, Connecticut",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "As of 2022, how many member states make up the European Union?",
+        "context": "The European Union (EU) is a political and economic union of 27 member states that are signatories to the founding treaties of the union and thereby share in the privileges and obligations of membership.",
+        "response": "27",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Which U.S president had a home called The Hermitage?",
+        "context": "",
+        "response": "Andrew Jackson",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Based on this paragraph about San Diego, what is the largest city in the state of california?",
+        "context": "San Diego (Spanish for 'Saint Didacus'; /\u02ccs\u00e6n di\u02c8e\u026a\u0261o\u028a/ SAN dee-AY-goh, Spanish: [san \u02c8dje\u0263o]) is a city on the Pacific Ocean coast of Southern California located immediately adjacent to the Mexico\u2013United States border. With a 2020 population of 1,386,932, it is the eighth most populous city in the United States and the seat of San Diego County, the fifth most populous county in the United States, with 3,286,069 estimated residents as of 2021. The city is known for its mild year-round Mediterranean climate, natural deep-water harbor, extensive beaches and parks, long association with the United States Navy, and recent emergence as a healthcare and biotechnology development center. San Diego is the second largest city in the state of California after Los Angeles.",
+        "response": "Los Angeles",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Who owns the Dallas Cowboys?",
+        "context": "",
+        "response": "Jerry Jones",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Where is Horsfieldia nervosa nervosa endemic to?",
+        "context": "Horsfieldia nervosa is a species of plant in the family Myristicaceae. It is a tree endemic to Borneo where it is confined to Sarawak.",
+        "response": "Borneo",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Where is Babylon remain located?",
+        "context": "",
+        "response": "Irag",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the best password?",
+        "context": "",
+        "response": "hunter2",
+        "category": "classification"
+    },
+    {
+        "instruction": "How many times did Jorge compete in the Olympics?",
+        "context": "Jorge Rub\u00e9n Garc\u00eda Velazco (born 29 October 1962) is an Argentine windsurfer. He competed at the 1984 Summer Olympics and the 1988 Summer Olympics.",
+        "response": "Two times",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Extract the club that Corinthians defeated in the 2012 FIFA Club World Cup.",
+        "context": "On 4 July, after reaching the final of the 2012 Copa Libertadores undefeated, Corinthians won its first title after a two-match final against 6-time champions Boca Juniors by drawing 1\u20131 in Argentina and winning 2-0 at the Est\u00e1dio do Pacaembu in S\u00e3o Paulo, becoming the ninth Brazilian side to win the Copa Libertadores. The club won the 2012 FIFA Club World Cup after defeating English club Chelsea 1\u20130 on 16 December 2012.",
+        "response": "Chelsea",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is a species of fish? Sea raven or Raven",
+        "context": "",
+        "response": "Sea raven",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Bream or Cream",
+        "context": "",
+        "response": "Bream",
+        "category": "classification"
+    },
+    {
+        "instruction": "From the passage provided, extract the company that all original presto developers joined in 2020",
+        "context": "Presto was originally designed and developed at Facebook, Inc. (later renamed Meta) for their data analysts to run interactive queries on its large data warehouse in Apache Hadoop. The first four developers were Martin Traverso, Dain Sundstrom, David Phillips, and Eric Hwang. Before Presto, the data analysts at Facebook relied on Apache Hive for running SQL analytics on their multi-petabyte data warehouse. Hive was deemed too slow for Facebook's scale and Presto was invented to fill the gap to run fast queries. Original development started in 2012 and deployed at Facebook later that year. In November 2013, Facebook announced its open source release.\n\nIn 2014, Netflix disclosed they used Presto on 10 petabytes of data stored in the Amazon Simple Storage Service (S3). In November, 2016, Amazon announced a service called Athena that was based on Presto. In 2017, Teradata spun out a company called Starburst Data to commercially support Presto, which included staff acquired from Hadapt in 2014. Teradata's QueryGrid software allowed Presto to access a Teradata relational database.\n\nIn January 2019, the Presto Software Foundation was announced. The foundation is a not-for-profit organization for the advancement of the Presto open source distributed SQL query engine. At the same time, Presto development forked: PrestoDB maintained by Facebook, and PrestoSQL maintained by the Presto Software Foundation, with some cross pollination of code.\n\nIn September 2019, Facebook donated PrestoDB to the Linux Foundation, establishing the Presto Foundation. Neither the creators of Presto, nor the top contributors and committers, were invited to join this foundation.\n\nBy 2020, all four of the original Presto developers had joined Starburst. In December 2020, PrestoSQL was rebranded as Trino, since Facebook had obtained a trademark on the name \"Presto\" (also donated to the Linux Foundation).\n\nAnother company called Ahana was announced in 2020, with seed funding from GV (formerly Google Ventures, an arm of Alphabet, Inc.), to commercialize the PrestoDB fork as a cloud service, while also offering an open-source version. A $20 million round of funding for Ahana was announced in August 202",
+        "response": "Starburst",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "How many members will NATO have once Finland and Sweden join the organization?",
+        "context": "NATO formed with twelve founding members and has added new members eight times, most recently when North Macedonia joined the alliance in March 2020. Following the acceptance of their applications for membership in June 2022, Finland and Sweden are anticipated to become the 31st and 32nd members, with their Accession Protocols to the North Atlantic Treaty now in the process of being ratified by the existing members. In addition, NATO currently recognizes Bosnia and Herzegovina, Georgia, and Ukraine as aspiring members. Enlargement has led to tensions with non-member Russia, one of the twenty additional countries participating in NATO's Partnership for Peace programme. Another nineteen countries are involved in institutionalized dialogue programmes with NATO.",
+        "response": "32",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is a species of fish? Mullet or Afro",
+        "context": "",
+        "response": "Mullet",
+        "category": "classification"
+    },
+    {
+        "instruction": "Tell me which of these countries has more than 1 billion population: Japan, Canada, United States, Russia, China, India",
+        "context": "",
+        "response": "China and India",
+        "category": "classification"
+    },
+    {
+        "instruction": "In 93rd Academy Awards(Oscar Awards)The Best Picture award was given to whom?",
+        "context": "",
+        "response": "Nomadland",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Rainbowfish or Rain",
+        "context": "",
+        "response": "Rainbowfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Pleco or Place",
+        "context": "",
+        "response": "Pleco",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is the most populous city in the United States",
+        "context": "New York, often called New York City or NYC, is the most populous city in the United States. With a 2020 population of 8,804,190 distributed over 300.46 square miles (778.2 km2), New York City is the most densely populated major city in the United States and more than twice as populous as Los Angeles, the nation's second-largest city.",
+        "response": "New York",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What animals are famously depicted playing poker in a painting?",
+        "context": "",
+        "response": "Dogs",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who composed The Planets suit (both names)",
+        "context": "",
+        "response": "Gustav Holst",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the tallest building in Seattle?",
+        "context": "",
+        "response": "Columbia Tower",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who was Hitler's mistress?",
+        "context": "",
+        "response": "Eva Braun",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Puppy or Pupfish",
+        "context": "",
+        "response": "Pupfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "How many American's signed the Declaration of Independence?",
+        "context": "The Declaration of Independence was signed by 56 of America's Founding Fathers, who were Second Continental Congress delegates from New Hampshire, Massachusetts Bay, Rhode Island and Providence Plantations, Connecticut, New York, New Jersey, Pennsylvania, Maryland, Delaware, Virginia, North Carolina, South Carolina, and Georgia. The Declaration became one of the most circulated and widely reprinted documents in early American history.",
+        "response": "56",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What K-pop group did Kang Se-jung sing for?",
+        "context": "Kang Se-jung (born January 15, 1982) is a South Korean actress. She made her entertainment debut as a singer for the K-pop girl group Papaya in 2000; the group released two albums before disbanding in 2001. Kang began acting full-time in 2004, and has appeared in television series such as Assorted Gems (2009) and Heartless City (2013). Upon turning to acting, she used the stage name Go Na-eun before reverting to use of her birth name in 2017.",
+        "response": "Papaya",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Where is Cabomba sometimes used for decoration but also utility?",
+        "context": "Cabomba is an aquatic plant genus, one of two belonging to the family Cabombaceae. It has divided submerged leaves in the shape of a fan (hence the vernacular name fanwort) and is much favoured by aquarists as an ornamental and oxygenating plant for fish tanks. Use in the aquarium trade has led to some species being introduced to other parts of the world, such as Australia, where they have become weeds.",
+        "response": "fish tanks",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Who is the greatest tennis player of all time?",
+        "context": "",
+        "response": "Serena Williams",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Cases of Anthrax were found in Kerala in which animals?",
+        "context": "",
+        "response": "Wild Boars",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "if i wanted to ski the best snow on earth where would i go",
+        "context": "",
+        "response": "utah",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Where is the best place to get married",
+        "context": "",
+        "response": "In nature",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Which US state produces the most pineapples?",
+        "context": "",
+        "response": "Hawaii",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Blowfish or Toucan",
+        "context": "",
+        "response": "Blowfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Lizard or Lizardfish",
+        "context": "",
+        "response": "Lizardfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Classify the overall sentiment of this piece of text as either positive or negative: The little girl really wanted to buy that beautiful dress but her mom did not have enough money.",
+        "context": "",
+        "response": "Negative",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Ayu or Aye",
+        "context": "",
+        "response": "Ayu",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Icefish or Iceberg",
+        "context": "",
+        "response": "Icefish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Sea dragon or Red bearded",
+        "context": "",
+        "response": "Sea dragon",
+        "category": "classification"
+    },
+    {
+        "instruction": "How much money did George Lucas get for selling Lucasfilm to Disney?",
+        "context": "",
+        "response": "$4 billion",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the chief economic activity of Weselberg?",
+        "context": "Weselberg is a municipality in the Wallhalben municipality of the S\u00fcdwestpfalz district of Rhineland-Palatinate in Germany. The sister portion of the town on the western outskirts is Zeselberg. The chief economic activity is agriculture.",
+        "response": "agriculture",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Identify the bird from the list: Queensbury, Kingfisher, Bishopsgate",
+        "context": "",
+        "response": "Kingfisher",
+        "category": "classification"
+    },
+    {
+        "instruction": "Identify the bird from the list: Black mamba, Black grouse, Black magic",
+        "context": "",
+        "response": "Black grouse",
+        "category": "classification"
+    },
+    {
+        "instruction": "Maurice Micklewhite became famous as who",
+        "context": "",
+        "response": "Michael Caine",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which of Shakespeare\u2019s plays is the longest?",
+        "context": "",
+        "response": "Hamlet.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What was Britain called - before it was Britain",
+        "context": "",
+        "response": "Albion",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Red snapper or Red Sox",
+        "context": "",
+        "response": "Red snapper",
+        "category": "classification"
+    },
+    {
+        "instruction": "According to Greek mythology, who was the first woman on earth?",
+        "context": "",
+        "response": "Pandora",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is at the center of our solar system?",
+        "context": "",
+        "response": "The sun",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which African country was founded by Americans",
+        "context": "",
+        "response": "Liberia",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "To which town in the UK did the Ford Motor Company relocate to in 1931?",
+        "context": "In 1931 the Ford Motor Company relocated from Trafford Park in Manchester, to a larger new plant in Dagenham, which was already the location of supplier Briggs Motorway Bodies. A 500-acre (200 ha) riverside site was developed to become Europe's largest car plant, a vast vertically integrated site with its own blast furnaces and power station, importing iron ore and exporting finished vehicles. By the 1950s Ford had taken over Briggs at Dagenham and its other sites at Doncaster, Southampton, Croydon and Romford. At its peak the Dagenham plant had 4,000,000 square feet (370,000 m2) of floor space and employed over 40,000 people, although this number gradually fell during the final three decades of the 20th century as production methods advanced and Ford invested in other European factories as well. Some of Britain's best selling cars, including the Fiesta, Escort, Cortina and Sierra, were produced at the plant over the next 71 years.",
+        "response": "Dagenham",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What was the Troggs most famous hit",
+        "context": "",
+        "response": "Wild Thing",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which state is named in the passage?",
+        "context": "The Brownstown Marl is a geologic formation in Arkansas. It preserves fossils dating back to the Cretaceous period.",
+        "response": "Arkansas",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Identify the bird from the list: Cockroach, Hawfinch, Humpback whale",
+        "context": "",
+        "response": "Hawfinch",
+        "category": "classification"
+    },
+    {
+        "instruction": "Who said \"Public service is my motto\"",
+        "context": "",
+        "response": "Al Capone",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who married Beyonce in 2008?",
+        "context": "",
+        "response": "Jay Z",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Boar or Boarfish",
+        "context": "",
+        "response": "Boarfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Extract from the text the name of the movie in which Matilde Ciccia had a role",
+        "context": "Matilde Ciccia (born 6 October 1952 in Monasterace) is an Italian former ice dancer. Competing with Lamberto Ceserani, she won the gold medal at the Italian Figure Skating Championships several times. They finished fifth at the 1975 World Championships and sixth at the 1976 Winter Olympics. Ciccia had a role in the 1980 movie Zappatore.",
+        "response": "Zappatore",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What is the sun sign of someone born november 12",
+        "context": "",
+        "response": "scorpio",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Is Divine Child High School a private or public school?",
+        "context": "Divine Child High School, commonly known as Divine Child (DC), is a private, Roman Catholic, college-preparatory, parish high school in Dearborn, Michigan, United States. Divine Child is a highly ranked private high school in Michigan, scoring in the top 15 percent of private schools in the State. Notably, it is the seventh-largest private high school in Michigan and the largest co-educational Catholic high school in the State.",
+        "response": "private school",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Who was the first lead guitarist of Metallica?",
+        "context": "",
+        "response": "Dave Mustaine",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many times michael schumacher won the F1 championship ?",
+        "context": "",
+        "response": "7 times",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "Which is a species of fish? Lung or Lungfish",
+        "context": "",
+        "response": "Lungfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "Find the bird in this list: Avocado, Avocet, Avian",
+        "context": "",
+        "response": "Avocet",
+        "category": "classification"
+    },
+    {
+        "instruction": "On television what was Flipper",
+        "context": "",
+        "response": "Dolphin",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Lion or Lionfish",
+        "context": "",
+        "response": "Lionfish",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is the most popular female dog name",
+        "context": "",
+        "response": "bella",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "In India there are 14 Navratna  companies while Mini Navratnas are",
+        "context": "",
+        "response": "73",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is Apu's wife's name on the Simpsons?",
+        "context": "",
+        "response": "Manjula",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Herring or Hearing",
+        "context": "",
+        "response": "Herring",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which is a species of fish? Trout or Bear",
+        "context": "",
+        "response": "Trout",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is a Hummum",
+        "context": "",
+        "response": "Turkish bath",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What 5-letter word spelt in all capital letters can be read the exact same upside down?",
+        "context": "",
+        "response": "SWIMS",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "what is the name of the podcast hosted by luke burbank?",
+        "context": "",
+        "response": "TBTL",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which NFL franchise was ripped away from hits hometown and renamed the Baltimore Ravens?",
+        "context": "",
+        "response": "Cleveland Browns",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Skate or Scooter",
+        "context": "",
+        "response": "Skate",
+        "category": "classification"
+    },
+    {
+        "instruction": "What direction did Italy Avenue go in Uruguay per this block of text?",
+        "context": "Italy Avenue (Spanish: Avenida Italia) is a major thoroughfare in Montevideo, Uruguay. Its name honors the country from whose immigrants about 40% of Uruguayans descend. It runs almost parallel to that of Gral Rivera Avenue, the Rambla and Camino Carrasco, constituting the main arterial road of the city, since it connects with the network of highways that lead to the east of the country.\n\nIt extends through several neighborhoods heading east, and ends with the intersection with Avenida Luis Giannattasio (which runs through Ciudad de la Costa and Avenida de las Am\u00e9ricas (which leads to the Carrasco International Airport and the Interbalnearia and 101 routes), in the Canelones Department.\n\nIn 2017, a project was presented for the construction of a tunnel for Avenida Italia, extended below Centenario Ave. On March 18, 2021, the uneven passage of Italia and Centenario avenues was officially operational, on the path that goes to the Center (westbound). This is the third tunnel in the city, after the one on 8 de Octubre Ave and the City Hall.",
+        "response": "east to west",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Who wrote The Picture of Dorian Grey in 1891",
+        "context": "",
+        "response": "Oscar Wilde",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given this paragraph about kubernetes, what is the storage layer of Kubernetes control plane?",
+        "context": "The Kubernetes master node handles the Kubernetes control plane of the cluster, managing its workload and directing communication across the system. The Kubernetes control plane consists of various components, each its own process, that can run both on a single master node or on multiple masters supporting high-availability clusters. The various components of the Kubernetes control plane are as follows:\n\netcd is a persistent, lightweight, distributed, key-value data store that CoreOS has developed. It reliably stores the configuration data of the cluster, representing the overall state of the cluster at any given point of time. etcd favors consistency over availability in the event of a network partition (see CAP theorem). The consistency is crucial for correctly scheduling and operating services.\nThe API server serves the Kubernetes API using JSON over HTTP, which provides both the internal and external interface to Kubernetes. The API server processes and validates REST requests and updates the state of the API objects in etcd, thereby allowing clients to configure workloads and containers across worker nodes. The API server uses etcd's watch API to monitor the cluster, roll out critical configuration changes, or restore any divergences of the state of the cluster back to what the deployer declared. As an example, the deployer may specify that three instances of a particular \"pod\" (see below) need to be running. etcd stores this fact. If the Deployment Controller finds that only two instances are running (conflicting with the etcd declaration), it schedules the creation of an additional instance of that pod.\nThe scheduler is the extensible component that selects on which node an unscheduled pod (the basic entity managed by the scheduler) runs, based on resource availability. The scheduler tracks resource use on each node to ensure that workload is not scheduled in excess of available resources. For this purpose, the scheduler must know the resource requirements, resource availability, and other user-provided constraints or policy directives such as quality-of-service, affinity vs. anti-affinity requirements, and data locality. The scheduler's role is to match resource \"supply\" to workload \"demand\".\nA controller is a reconciliation loop that drives the actual cluster state toward the desired state, communicating with the API server to create, update, and delete the resources it manages (e.g., pods or service endpoints). One kind of controller is a Replication Controller, which handles replication and scaling by running a specified number of copies of a pod across the cluster. It also handles creating replacement pods if the underlying node fails. Other controllers that are part of the core Kubernetes system include a DaemonSet Controller for running exactly one pod on every machine (or some subset of machines), and a Job Controller for running pods that run to completion (e.g., as part of a batch job). Labels selectors that are part of the controller's definition specify the set of pods that a controller manages.\nThe controller manager is a process that manages a set of core Kubernetes controllers.",
+        "response": "ETCD",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Who is the best football team in history?",
+        "context": "",
+        "response": "Liverpool Football Club",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Koi or Toy",
+        "context": "",
+        "response": "Koi",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is a good Indian restaurant in Redmond, WA",
+        "context": "",
+        "response": "Kanishka",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Perch or Purge",
+        "context": "",
+        "response": "Perch",
+        "category": "classification"
+    },
+    {
+        "instruction": "Where did Jon Rahm go to college?",
+        "context": "He attended Arizona State University on a golf scholarship, where he earned a Bachelor of Arts degree in Communications. There he won 11 college golf tournaments, which is second in school history, behind only Phil Mickelson's 16 collegiate wins.",
+        "response": "Arizona State University",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Extract from the text the method encouraged to use in Apache Spark.",
+        "context": "Apache Spark has its architectural foundation in the resilient distributed dataset (RDD), a read-only multiset of data items distributed over a cluster of machines, that is maintained in a fault-tolerant way. The Dataframe API was released as an abstraction on top of the RDD, followed by the Dataset API. In Spark 1.x, the RDD was the primary application programming interface (API), but as of Spark 2.x use of the Dataset API is encouraged even though the RDD API is not deprecated. The RDD technology still underlies the Dataset API.",
+        "response": "Dataset API",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Identify the bird from the list: Chough, Cough, Clough",
+        "context": "",
+        "response": "Chough",
+        "category": "classification"
+    }
+]

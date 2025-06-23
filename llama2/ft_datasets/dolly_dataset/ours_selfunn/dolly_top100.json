@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "Based on this paragraph, how many times was Barros traded during his professional basketball career?",
+        "context": "The 5' 11\" (1.80 m), 165 lb (75 kg) point guard, began his professional career in 1989 when he was selected in the first round of the NBA draft by the Seattle SuperSonics with the 16th pick. Most of his time spent in Seattle was as a backup to point guard Gary Payton, who was considered to be a much more competent ball handler and defender, as Barros was deemed more usable at shooting guard. Prior to the 1993\u201394 season, the Sonics traded Barros to the Charlotte Hornets in exchange for Kendall Gill. Two days later, Charlotte traded Barros, Sidney Green, and their 1993 draft choice, Greg Graham, to the Philadelphia 76ers for Hersey Hawkins. Barros became a free agent at the end of the 1994-95 NBA season. He signed with his hometown Boston Celtics, and remained for five seasons as a role player alongside David Wesley and Dee Brown and mentor to younger players such as Antoine Walker and Paul Pierce. In the offseason of 2000, Barros was traded to the Dallas Mavericks as part of a four-team deal that also involved the Utah Jazz and Golden State Warriors. By the time the 2000\u201301 season had commenced, the Mavs had traded Barros to the Detroit Pistons, where he played 89 games over two seasons, averaging 7.5 points per game, until waiving him in 2002.",
+        "response": "Based on this paragraph, Barros was traded four times while in the NBA (from Seattle to Charlotte; from Charlotte to Philadelphia; from Boston to Dallas; from Dallas to Detroit).",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "In 1961 which Henry Mancini record won Grammy record of year",
+        "context": "",
+        "response": "Moon River",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What does W stand for in the name W. Rex Black?",
+        "context": "Wilford Rex Black (January 31, 1920 \u2013 December 12, 2012) was an American politician.\n\nWilford Rex Black represented the 2nd Utah Senate District from 1973 to 1997. W. Rex Black, as he was often referred to, was a member of the Democratic party and represented the party as the Minority leader in the Utah Senate for many years.",
+        "response": "Wilford",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What are the words of House Arryn?",
+        "context": "",
+        "response": "\"As High as Honor\"",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Are these cities or countries: Tokyo, Riyadh, Florence, Monteverde, Nafplio",
+        "context": "",
+        "response": "cities",
+        "category": "classification"
+    },
+    {
+        "instruction": "Maurice Micklewhite became famous as who",
+        "context": "",
+        "response": "Michael Caine",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Tomb of Sand  was translated from Hindi to English by",
+        "context": "",
+        "response": "Daisy Rockwell",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Best film in Motion Picture  27th Screen Actors Guild(SAG) Awards was given to which film?",
+        "context": "",
+        "response": "Chicago 7",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which country was the first to introduce old age pensions",
+        "context": "",
+        "response": "Germany",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "In what month did the Russian October revolution take place",
+        "context": "",
+        "response": "November",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many strings are on a violin?",
+        "context": "",
+        "response": "Four",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Booker Prize 2021 was given to Damon Galgut for",
+        "context": "",
+        "response": "The Promise",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Tesrt",
+        "context": "",
+        "response": "Answer",
+        "category": "creative_writing"
+    },
+    {
+        "instruction": "What movie make Kevin Smith famous?",
+        "context": "",
+        "response": "Clerks",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many voyages did Columbus lead to America?",
+        "context": "",
+        "response": "Four",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Kartavya Path was called in the name of",
+        "context": "",
+        "response": "Kingsway",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Extract the Greek terms in the following paragraph, along with a short definition, in bullet points.",
+        "context": "Meno (/\u02c8mi\u02d0no\u028a/; Greek: \u039c\u03ad\u03bd\u03c9\u03bd, M\u00e9n\u014dn) is a Socratic dialogue by Plato. Meno begins the dialogue by asking Socrates whether virtue is taught, acquired by practice, or comes by nature. In order to determine whether virtue is teachable or not, Socrates tells Meno that they first need to determine what virtue is. When the characters speak of virtue, or rather arete, they refer to virtue in general, rather than particular virtues, such as justice or temperance. The first part of the work showcases Socratic dialectical style; Meno, unable to adequately define virtue, is reduced to confusion or aporia. Socrates suggests that they seek an adequate definition for virtue together. In response, Meno suggests that it is impossible to seek what one does not know, because one will be unable to determine whether one has found it.\n\nSocrates challenges Meno's argument, often called \"Meno's Paradox\" or the \"Learner's Paradox\", by introducing the theory of knowledge as recollection (anamnesis). As presented in the dialogue, the theory proposes that souls are immortal and know all things in a disembodied state; learning in the embodied is actually a process of recollecting that which the soul knew before it came into a body. Socrates demonstrates recollection in action by posing a mathematical puzzle to one of Meno's slaves. Subsequently, Socrates and Meno return to the question of whether virtue is teachable, employing the method of hypothesis. Near the end of the dialogue, Meno poses another famous puzzle, called \"The Meno Problem\" or \"The Value Problem for Knowledge\", which questions why knowledge is valued more highly than true belief. In response, Socrates provides a famous and somewhat enigmatic distinction between knowledge and true belief.",
+        "response": "- arete: virtues in general, i.e. instead of a particular virtue\n- aporia: confusion\n- anamnesis: recollection of knowledge",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What is the first name of the man Evershed crater was named after?",
+        "context": "Evershed is a lunar impact crater on the far side of the Moon, named after the English solar astronomer John Evershed. It is located to the northeast of the larger crater Cockcroft, and to the north of the smaller Van den Bergh.",
+        "response": "John",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Who betrayed Jesus to the Romans",
+        "context": "",
+        "response": "Judas Escariot",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which classical composer wrote the Hungarian Rhapsody",
+        "context": "",
+        "response": "Franz Liszt",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which Alanis Morissette song contains the phrase \"jagged little pill\" (the title of her debut album)?",
+        "context": "",
+        "response": "\"You learn\".",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is the oldest dynasty still ruling?",
+        "context": "",
+        "response": "Japan",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "in which language does God Jul mean happy Xmas",
+        "context": "",
+        "response": "Swedish",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Test",
+        "context": "",
+        "response": "Mike",
+        "category": "creative_writing"
+    },
+    {
+        "instruction": "What is a Hummum",
+        "context": "",
+        "response": "Turkish bath",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given this paragraph about Simon Bolivar, tell me when and where they were born, and what they are known for",
+        "context": "Sim\u00f3n Jos\u00e9 Antonio de la Sant\u00edsima Trinidad Bol\u00edvar y Palacios (24 July 1783 \u2013 17 December 1830) was a Venezuelan military and political leader who led what are currently the countries of Colombia, Venezuela, Ecuador, Peru, Panama and Bolivia to independence from the Spanish Empire. He is known colloquially as El Libertador, or the Liberator of America. Sim\u00f3n Bol\u00edvar was born in Caracas in the Captaincy General of Venezuela into a wealthy family of American-born Spaniards (criollo), but lost both parents as a child. Bol\u00edvar was educated abroad and lived in Spain, as was common for men of upper-class families in his day. While living in Madrid from 1800 to 1802, he was introduced to Enlightenment philosophy and married Mar\u00eda Teresa Rodr\u00edguez del Toro y Alaysa, who died in Venezuela from yellow fever in 1803. From 1803 to 1805, Bol\u00edvar embarked on a Grand Tour that ended in Rome, where he swore to end the Spanish rule in the Americas. In 1807, Bol\u00edvar returned to Venezuela and proposed gaining Venezuelan independence to other wealthy creoles. When the Spanish authority in the Americas weakened due to Napoleon's Peninsular War, Bol\u00edvar became a zealous combatant and politician in the Spanish American wars of independence.",
+        "response": "Simon Bolivar was born in Caracas, Venezuela on 24 July 1783. He is known for leading the wars of independence from the Spanish Empire from what are currently the countries of Colombia, Venezuela, Ecuador, Peru, Panama and Bolivia",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Who founded Amazon?",
+        "context": "",
+        "response": "Jeff Bezos",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "tell me a name which is colour and fruit",
+        "context": "",
+        "response": "orange",
+        "category": "classification"
+    },
+    {
+        "instruction": "Van Halen famously banned what color M&Ms in their rider?",
+        "context": "",
+        "response": "Brown.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who was among the famous Roman poets?",
+        "context": "",
+        "response": "Virgil",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What city in Mexico is often referred to as San Pancho?",
+        "context": "",
+        "response": "San Francisco",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who sings the song call \"heartbreak anniversary\"?",
+        "context": "",
+        "response": "Giveon",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the name of the movie made by Ben Affleck and Matt Damon about the company Nike?",
+        "context": "",
+        "response": "Air",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which country won the most recent soccer world cup?",
+        "context": "",
+        "response": "Argentina",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given a reference text that provides the geographical description of continent Asia, how many Asian countries have a part of their land in Europe as well?",
+        "context": "Asia is the largest continent on Earth. It covers 9% of the Earth's total surface area (or 30% of its land area), and has the longest coastline, at 62,800 kilometres (39,022 mi). Asia is generally defined as comprising the eastern four-fifths of Eurasia. It is located to the east of the Suez Canal and the Ural Mountains, and south of the Caucasus Mountains (or the Kuma\u2013Manych Depression) and the Caspian and Black Seas. It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean. Asia is subdivided into 49 countries, five of them (Georgia, Azerbaijan, Russia, Kazakhstan and Turkey) are transcontinental countries lying partly in Europe. Geographically, Russia is partly in Asia, but is considered a European nation, both culturally and politically.",
+        "response": "5",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Prince introduced his iconic symbol on the cover of which single?",
+        "context": "",
+        "response": "1999.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What was gangsters George Nelsons nickname",
+        "context": "",
+        "response": "Baby Face",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who was given the Booker Prize 2020?",
+        "context": "",
+        "response": "Douglas Stuart",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many sinking ships did Violet Jessop survive? Be precise.",
+        "context": "Violet Constance Jessop (2 October 1887 \u2013 5 May 1971), often referred to as the \"Queen of sinking ships\" or \"Miss Unsinkable,\" was an Argentine woman of Irish heritage who worked as an ocean liner stewardess, memoirist, and nurse in the early 20th century. Jessop is most well known for having survived the sinking of both the RMS Titanic in 1912 and her sister ship the HMHS Britannic in 1916, as well as having been onboard the eldest of the three sister ships, the RMS Olympic, when it collided with the British warship HMS Hawke in 1911.",
+        "response": "2.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What is the meaning of 'akamai'?",
+        "context": "The company was named after akamai, which means 'clever,' or more colloquially, 'cool' in Hawaiian, which Lewin had discovered in a Hawaiian-English dictionary after the suggestion of a colleague.",
+        "response": "clever",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Bass or Treble",
+        "context": "",
+        "response": "Bass",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is the main language spoken in South America?",
+        "context": "",
+        "response": "Spanish",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "In what key do most car horns honk?",
+        "context": "",
+        "response": "F",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "If you had pogonophobia what would you be afraid of",
+        "context": "",
+        "response": "Beards",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How do fiber optic cables transmit data?",
+        "context": "",
+        "response": "With light",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given the reference text about \"The New Deal\", what are the \"3 R's\" historians refer to about the program.",
+        "context": "The New Deal was a series of programs, public work projects, financial reforms, and regulations enacted by President Franklin D. Roosevelt in the United States between 1933 and 1939. Major federal programs and agencies included the Civilian Conservation Corps (CCC), the Works Progress Administration (WPA), the Civil Works Administration (CWA), the Farm Security Administration (FSA), the National Industrial Recovery Act of 1933 (NIRA) and the Social Security Administration (SSA). They provided support for farmers, the unemployed, youth, and the elderly. The New Deal included new constraints and safeguards on the banking industry and efforts to re-inflate the economy after prices had fallen sharply. New Deal programs included both laws passed by Congress as well as presidential executive orders during the first term of the presidency of Franklin D. Roosevelt.\n\nThe programs focused on what historians refer to as the \"3 R's\": relief for the unemployed and for the poor, recovery of the economy back to normal levels, and reform of the financial system to prevent a repeat depression. The New Deal produced a political realignment, making the Democratic Party the majority (as well as the party that held the White House for seven out of the nine presidential terms from 1933 to 1969) with its base in progressive ideas, the South, big city machines and the newly empowered labor unions, and various ethnic groups. The Republicans were split, with progressive Republicans in support but conservatives opposing the entire New Deal as hostile to business and economic growth. The realignment crystallized into the New Deal coalition that dominated presidential elections into the 1960s while the opposing conservative coalition largely controlled Congress in domestic affairs from 1937 to 1964.",
+        "response": "The \"3 R's\" historians refer to are the following:\n- Relief for the unemployed and for the poor\n- Recovery of the economy back to normal levels\n- Reform of the financial system to prevent a repeat depression",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What is the first letter of every sentence, separated by commas?",
+        "context": "YouTube has been led by a CEO since its founding in 2005, and has retained this leadership model even after its acquisition by Google. The current CEO is Neal Mohan, who was appointed on February 16, 2023.",
+        "response": "Y,T",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is a species of fish? Hamlet or Othello",
+        "context": "",
+        "response": "Hamlet",
+        "category": "classification"
+    },
+    {
+        "instruction": "What was Elvis Presley's first No. 1 hit in the United States?",
+        "context": "",
+        "response": "\"Heartbreak Hotel\".",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which one of these is a country: Banana, Chicken, Pine tree, or Japan?",
+        "context": "",
+        "response": "Japan",
+        "category": "classification"
+    },
+    {
+        "instruction": "Eric Arthur Blaire was the real name of which author",
+        "context": "",
+        "response": "George Orwell",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is the mighty river that begins at Lake Itasca in Northern Minnesota",
+        "context": "",
+        "response": "The Mississippi River",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Was Endless Nights released in November or December?",
+        "context": "Endless Nights in Aurora (Chinese: \u6975\u5149\u4e4b\u611b) is a 2014 Taiwanese romantic drama film directed by Lee Szu-yuan. It stars Rainie Yang and Chris Wang. It was released on December 19, 2014.\n\nRevolving around the romantic relationship of two generations, Alisha and her mother Xiao-feng, two parallel love stories are re-enacted across two and a half decades. With equally heated passion, the star-crossed lovers in different generations are faithfully attached to their experiences in love through promises, anticipation, losses, and forgiveness.",
+        "response": "December",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Which is considered the first human technology?",
+        "context": "",
+        "response": "Fire",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "In 1779 Abraham Darby built the worlds first what",
+        "context": "",
+        "response": "Metal Bridge",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Tell me whether these are dogs or cats: bulldogs, poodles, huskies, collies, shepherds",
+        "context": "",
+        "response": "Dogs",
+        "category": "classification"
+    },
+    {
+        "instruction": "Is Seattle a nice place to live?",
+        "context": "Seattle came in at No. 39 in the 2023 World's Best Cities Report, a comprehensive annual study by Resonance Consultancy. Seattle is a seaport city on the West Coast of the United States. The culture of Seattle is heavily defined by its significant musical history. Between 1918 and 1951, nearly 24 jazz nightclubs existed along Jackson Street, from the current Chinatown/International District to the Central District. The jazz scene nurtured the early careers of Ernestine Anderson, Ray Charles, Quincy Jones, and others. The city is also the origin of rock acts such as Foo Fighters, Heart, and Jimi Hendrix, as well as the grunge subgenre of rock and its pioneering bands Alice in Chains, Pearl Jam, Nirvana, and Soundgarden. The city itself is hilly, though not uniformly so. Like Rome, the city is said to lie on seven hills; the lists vary but typically include Capitol Hill, First Hill, West Seattle, Beacon Hill, Queen Anne, Magnolia, and the former Denny Hill. Due to its location in the Pacific Ring of Fire, Seattle is in a major earthquake zone. Temperature extremes are moderated by the adjacent Puget Sound, greater Pacific Ocean, and Lake Washington. Thus extreme heat waves are rare in the Seattle area, as are very cold temperatures (below about 15 \u00b0F (\u22129 \u00b0C)). The Seattle area is the cloudiest region of the United States, due in part to frequent storms and lows moving in from the adjacent Pacific Ocean. With many more \"rain days\" than other major American cities, Seattle has a well-earned reputation for frequent rain. Seattle's economy is driven by a mix of older industrial companies and \"new economy\" internet and technology companies, as well as service, design, and clean technology companies.",
+        "response": "Yes",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Does SCI Dallas hold men or women?",
+        "context": "According to the official Department of Corrections web site, SCI Dallas (Luzerne County, 10 miles from Wilkes-Barre) was opened in 1960 as an institution for defective delinquents. After the state Supreme Court decision of 1966 voided the concept of \"defective delinquents,\" Dallas, like Huntingdon, became an adult institution. It now is a medium-security facility for men.",
+        "response": "men",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Given a reference text about Kennebunkport, tell me its neighboring towns and where it is located.",
+        "context": "Kennebunkport /\u02cck\u025bni\u02c8b\u028c\u014bk\u02ccp\u0254\u02d0rt/ is a resort town in York County, Maine, United States. The population was 3,629 people at the 2020 census. It is part of the Portland\u2013South Portland\u2013Biddeford metropolitan statistical area.\n\nThe town center, the area in and around Dock Square, is located along the Kennebunk River, approximately 1 mile (1.6 km) from the mouth of the river on the Atlantic Ocean. Historically a shipbuilding and fishing village, for well over a century the town has been a popular summer colony and seaside tourist destination. The Dock Square area has a district of souvenir shops, art galleries, schooner attractions, seafood restaurants, and bed and breakfasts. Cape Porpoise, while retaining its identity as a fishing harbor, has a very small village area with several restaurants, a church, grocery store, coffee shop, small library, and art gallery. Kennebunkport has a reputation as a summer haven for the upper class and is one of the wealthiest communities in the state of Maine. The Municipality of Kennebunkport includes the constituent villages of Kennebunkport Village, Cape Arundel & Colony Beach, the Cottage Coast, Wilde's District (Wildwood), Goose Rocks Beach, Turbatts Creek, Cape Porpoise Village, North Village Crossing (Townhouse Corner), among various other newer developments. The town is the home of Walker's Point, a summer estate of the Bush family.\n\nKennebunkport and neighboring towns Kennebunk and Arundel comprise school district RSU 21.\n\nThe Kennebunkport Christmas Prelude takes place annually in the town, beginning either in late November or early December.",
+        "response": "Kennebunkport is located in York County, Maine and is neighbored by the towns of Kennebunk and Arundel.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "In India there are 14 Navratna  companies while Mini Navratnas are",
+        "context": "",
+        "response": "73",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Poacher or Hunter",
+        "context": "",
+        "response": "Poacher",
+        "category": "classification"
+    },
+    {
+        "instruction": "Who will win F1 championship in the world 2023",
+        "context": "",
+        "response": "Max Vestrapen",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "How much money did George Lucas get for selling Lucasfilm to Disney?",
+        "context": "",
+        "response": "$4 billion",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Oscar or Papa",
+        "context": "",
+        "response": "Oscar",
+        "category": "classification"
+    },
+    {
+        "instruction": "Given the reference text about moths, what family does Bityla sericea belong to?",
+        "context": "Bityla sericea is a species of moth in the family Noctuidae. This species is endemic to New Zealand. It is classified as \"At Risk, Naturally Uncommon\" by the New Zealand Department of Conservation. This species was first described by Arthur Gardiner Butler in 1877 using a specimen obtained from John Enys and collected in the South Island. George Hudson discussed and illustrated this species both in his 1898 book, New Zealand moths and butterflies (Macro-lepidoptera) and his 1928 publication The Butterflies and Moths of New Zealand. In 1905 Hudson, thinking he was describing a new species, also gave the species the name Orthosia pallida. George Francis Hampson, also mistakenly believing this was a separate species placed O. pallida in the genus Bityla. Hudson discussed B. pallida in his 1928 publication. John S. Dugdale synonymised B. pallida with B. sericea in 1988. The holotype specimen of B. sericea is held at the Natural History Museum, London.",
+        "response": "Noctuidae",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Extract the names of the original songs Sandler performed on Saturday Night Live and list them in bullet format.",
+        "context": "In 1987, Sandler played Theo Huxtable's friend Smitty on The Cosby Show and the Stud Boy or Trivia Delinquent on the MTV game show Remote Control. After his film debut in Going Overboard in 1989, Sandler performed in comedy clubs, having first taken the stage at his brother's urging when he was 17. He was discovered by comedian Dennis Miller, who caught Sandler's act in Los Angeles and recommended him to Saturday Night Live producer Lorne Michaels. Sandler was hired as a writer for SNL in 1990, and became a featured player the following year. He made a name for himself by performing amusing original songs on the show, including \"The Thanksgiving Song\" and \"The Chanukah Song\". Sandler told Conan O'Brien on The Tonight Show that NBC fired him and Chris Farley from the show in 1995. Sandler used his firing as part of his monologue when he returned in 2019 to host the show.",
+        "response": "-The Thanksgiving Song\n-The Chanukah Song",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is a species of fish? Wahoo or Yahoo",
+        "context": "",
+        "response": "Wahoo",
+        "category": "classification"
+    },
+    {
+        "instruction": "From the text, how long after the events of Return of the Jedi is the Mandalorian series set?  Convert years into months, and use letters to spell out the answer.",
+        "context": "The Mandalorian is an American space Western television series created by Jon Favreau for the streaming service Disney+. It is the first live-action series in the Star Wars franchise, beginning five years after the events of Return of the Jedi (1983), and stars Pedro Pascal as the title character, a lone bounty hunter who goes on the run to protect the Force-sensitive child Grogu. Starting in the third season, Katee Sackhoff also stars as Mandalorian Bo-Katan Kryze, following her appearance in the second season.",
+        "response": "sixty",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Where is Ivan Trotski from?",
+        "context": "Ivan Trotski is a Belarusian race walker.",
+        "response": "Belarus",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "How many colors are there in a rainbow.",
+        "context": "",
+        "response": "Seven",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Is an apple a fruit or a vegetable",
+        "context": "",
+        "response": "A fruit",
+        "category": "classification"
+    },
+    {
+        "instruction": "Who wrote the biography of Steve Jobs?",
+        "context": "",
+        "response": "Walter Isaacson",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the tallest building in Seattle?",
+        "context": "",
+        "response": "Columbia Tower",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "We all know the saying \"what goes up must come down,\" but what goes up but does not come down?",
+        "context": "",
+        "response": "Age",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "Who is the successor of Queen Elizabeth II ?",
+        "context": "",
+        "response": "Charles III",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Where is the best place to get married",
+        "context": "",
+        "response": "In nature",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "what is the name of the podcast hosted by luke burbank?",
+        "context": "",
+        "response": "TBTL",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Hoki or Loki",
+        "context": "",
+        "response": "Hoki",
+        "category": "classification"
+    },
+    {
+        "instruction": "Where is k-38 surf spot located?",
+        "context": "",
+        "response": "Baja California",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What type of mouse do you use with a mac",
+        "context": "",
+        "response": "Magic mouse",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Who won an Oscar for the African Queen",
+        "context": "",
+        "response": "Bogart",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "in which city was the first public opera house opened",
+        "context": "",
+        "response": "Venice",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Shane Fenton became famous as who",
+        "context": "",
+        "response": "Alvin Stardust",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "In the series A Song of Ice and Fire, who is the founder of House Karstark?",
+        "context": "",
+        "response": "Karlon Stark",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Fidelity Bravery Integrity is which organisations motto",
+        "context": "",
+        "response": "FBI",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the best selling book in history?",
+        "context": "",
+        "response": "The Bible",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the supreme law of the land?",
+        "context": "",
+        "response": "the Constitution",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which company is owned by Bill Gates",
+        "context": "",
+        "response": "Microsoft",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is so fragile that saying its name breaks it?",
+        "context": "",
+        "response": "The silence.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Eminem's 8 Mile is named after a road in which city?",
+        "context": "",
+        "response": "Detroit.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many rings on the Olympic flag",
+        "context": "",
+        "response": "Five",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Panga or Pangea",
+        "context": "",
+        "response": "Panga",
+        "category": "classification"
+    },
+    {
+        "instruction": "In which city is this high school located?",
+        "context": "The Instituto de Ense\u00f1anza Secundaria Lope de Vega (IES Lope de Vega) is a public high school in Madrid, Spain. It is located in the calle de San Bernardo. It is operated by the regional administration of the Community of Madrid.",
+        "response": "Madrid",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Extract a list of rivalries with the Detroit Lions in bulleted form, sorted alphabetically.",
+        "context": "The Lions have had several division rivals in their existence. Their oldest rivals are the Chicago Bears and the Green Bay Packers, whom they have faced since 1930. The Minnesota Vikings have been in a division with Detroit ever since their inaugural season in 1961. Another notable longtime division opponent was the Tampa Bay Buccaneers (25 seasons from 1977 to 2001).\n\nThe Lions also have a preseason rivalry with the Cleveland Browns, dubbed the Great Lakes Classic. The two teams have been playing for The Barge Trophy since 2002. The Lions and Browns had a solid rivalry in the 1950s, when they met four times for the NFL championship (Detroit won three of the matchups); they have met much less frequently during the regular season since the 1970 AFL\u2013NFL merger due to the Browns' move to the AFC.",
+        "response": "Here is a list of rivalries with the Detroit Lions, sorted alphabetically:\n\n* Chicago Bears\n* Cleveland Browns\n* Green Bay Packers\n* Minnesota Vikings\n* Tampa Bay Buccaneers",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What part of history called a fervent period of European cultural, artistic, political, and economic \u201crebirth\u201d following the Middle Ages?",
+        "context": "",
+        "response": "The Renaissance",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Cisco or Palo Alto",
+        "context": "",
+        "response": "Cisco",
+        "category": "classification"
+    },
+    {
+        "instruction": "Tell me which of these countries has more than 1 billion populations: Japan, Canada, United States, Russia",
+        "context": "",
+        "response": "None of these",
+        "category": "classification"
+    },
+    {
+        "instruction": "Which country produces the most wine on an annual basis?",
+        "context": "",
+        "response": "Italy",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What town is the Simpsons set in?",
+        "context": "",
+        "response": "Springfield",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Test from Mike",
+        "context": "",
+        "response": "Answer from Mike",
+        "category": "general_qa"
+    }
+]
